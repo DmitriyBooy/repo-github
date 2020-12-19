@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Драсьте
+=======
+cherry2
+>>>>>>> clear-branch
